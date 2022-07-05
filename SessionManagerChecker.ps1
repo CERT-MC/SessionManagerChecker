@@ -1,5 +1,5 @@
 ﻿#*********************************************************************#
-#@Author: AMSN
+#@Author: CERT-MC
 #@Version: 1.0
 #@Date: 04/07/2022
 #@Description: Test SessionManager
